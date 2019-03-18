@@ -1,3 +1,7 @@
+# Versioned directory
+
+[ ![Travis Build Status](https://travis-ci.org/exeter-matthew-wakeling/versioned_dir.svg?branch=master) ] (https://travis-ci.org/exeter-matthew-wakeling/versioned_dir)
+
 # Hello Brilliant, Useful  GitHub
 
 This is a README.md file that will be used to describe this
